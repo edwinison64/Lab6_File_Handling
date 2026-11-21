@@ -1,0 +1,5 @@
+Student: Ison
+Student ID: TUPM-26-4328
+Seed digit: 8
+ID sum: 25
+Verification Value: 108
